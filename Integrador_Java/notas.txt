@@ -1,0 +1,3 @@
+Volumen: cantidad repeticiones + peso levantado.
+saber para cada ejercicio el peso levantado y la cantidad de repeticiones
+
